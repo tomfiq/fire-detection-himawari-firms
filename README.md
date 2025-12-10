@@ -191,7 +191,22 @@ In the manuscript, please refer to this repository and its DOI as the primary so
 
 ## Contact and citation
 
-If you use this code or pipeline in your research, please cite the associated paper.  
-(You can add a BibTeX entry here once the paper is published.)
+If you use this code or pipeline in your research, please cite the software release and, once available, the associated article.
 
+**Software citation**
+
+Patombongi, A. (2025). *fire-detection-himawari-firms: Fire detection pipeline for Himawari-8 and FIRMS* (Version 1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.17873839
+
+BibTeX:
+
+```bibtex
+@software{patombongi_fire_detection_himawari_firms_2025,
+  author    = {Patombongi, Andi},
+  title     = {fire-detection-himawari-firms: Fire detection pipeline for Himawari-8 and FIRMS},
+  year      = {2025},
+  publisher = {Zenodo},
+  version   = {v1.0.0},
+  doi       = {10.5281/zenodo.17873839},  
+  url       = {https://doi.org/10.5281/zenodo.17873839}
+}
 For questions or issues, feel free to open an issue on the repository or contact the corresponding author.
