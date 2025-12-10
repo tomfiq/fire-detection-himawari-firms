@@ -40,12 +40,6 @@ The aim is to make the end-to-end workflow reproducible and extensible to other 
   - implements and uses custom Keras callbacks such as `CustomModelCheckpoint` and `CustomHistory`,
   - trains the model and computes the pixel-wise and object-wise metrics reported in the manuscript.
 
-You may also include:
-
-- `README.md` (this file),
-- `requirements.txt` (Python dependencies),
-- optionally a `callbacks.py` module if you decide to move the custom callbacks out of the notebook.
-
 ---
 
 ## Data sources
@@ -210,4 +204,4 @@ BibTeX:
   url       = {https://doi.org/10.5281/zenodo.17873839}
 }
 
-For questions or issues, feel free to open an issue on the repository or contact the corresponding author.
+For questions or issues, feel free to open an issue on the repository or contact the corresponding author email: tomfiq@gmail.com
